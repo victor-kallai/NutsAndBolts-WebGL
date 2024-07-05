@@ -1,0 +1,120 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Demo.GameplayPanel" preserve="all" />
+    <type fullname="Demo.LevelElement" preserve="all" />
+    <type fullname="Demo.LevelElementCloner" preserve="all" />
+    <type fullname="Demo.LevelLosePopup" preserve="all" />
+    <type fullname="Demo.LevelSelectPanel" preserve="all" />
+    <type fullname="Demo.LevelWinPopup" preserve="all" />
+    <type fullname="Demo.MainMenuPanel" preserve="all" />
+    <type fullname="Demo.PausePopup" preserve="all" />
+    <type fullname="Demo.SettingsPanel" preserve="all" />
+    <type fullname="Demo.LevelElementModel" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="GrumpyDot, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="GrumpyDot.DisableComponentsAfterFrames" preserve="all" />
+    <type fullname="GrumpyDot.TextMeshProUniformizer" preserve="all" />
+    <type fullname="GrumpyDot.TextMeshProUniformizerGroup" preserve="all" />
+    <type fullname="GrumpyDot.UI.UIScreen" preserve="all" />
+    <type fullname="GrumpyDot.UI.UIWidgetAnimator" preserve="all" />
+    <type fullname="GrumpyDot.UIButtonSoundEvent" preserve="all" />
+    <type fullname="TheraBytes.BetterUi.BetterButton" preserve="all" />
+    <type fullname="UnityEngine.UI.Extensions.UIParticleSystem" preserve="all" />
+    <type fullname="TheraBytes.BetterUi.AlphaTransitions" preserve="nothing" serialized="true" />
+    <type fullname="TheraBytes.BetterUi.AnimationTransitions" preserve="nothing" serialized="true" />
+    <type fullname="TheraBytes.BetterUi.Color32Transitions" preserve="nothing" serialized="true" />
+    <type fullname="TheraBytes.BetterUi.ColorTransitions" preserve="nothing" serialized="true" />
+    <type fullname="TheraBytes.BetterUi.ColorTransitions/ColorTransitionState" preserve="nothing" serialized="true" />
+    <type fullname="TheraBytes.BetterUi.CustomTransitions" preserve="nothing" serialized="true" />
+    <type fullname="TheraBytes.BetterUi.LocationAnimationTransitions" preserve="nothing" serialized="true" />
+    <type fullname="TheraBytes.BetterUi.MaterialPropertyTransition" preserve="nothing" serialized="true" />
+    <type fullname="TheraBytes.BetterUi.ObjectActivenessTransitions" preserve="nothing" serialized="true" />
+    <type fullname="TheraBytes.BetterUi.ScaleTransitions" preserve="nothing" serialized="true" />
+    <type fullname="TheraBytes.BetterUi.ScaleTransitions/ScaleTransitionState" preserve="nothing" serialized="true" />
+    <type fullname="TheraBytes.BetterUi.SpriteSwapTransitions" preserve="nothing" serialized="true" />
+    <type fullname="TheraBytes.BetterUi.SpriteSwapTransitions/SpriteSwapTransitionState" preserve="nothing" serialized="true" />
+    <type fullname="TheraBytes.BetterUi.Transitions" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UIAnimator, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UIAnimatorCore.FadeAlphaAnimationStep" preserve="all" />
+    <type fullname="UIAnimatorCore.PopAnimationStep" preserve="all" />
+    <type fullname="UIAnimatorCore.UIAnimator" preserve="all" />
+    <type fullname="UIAnimatorCore.ActionMatrixData" preserve="nothing" serialized="true" />
+    <type fullname="UIAnimatorCore.AnimStepVariablePositiveFloat" preserve="nothing" serialized="true" />
+    <type fullname="UIAnimatorCore.AnimationInstance" preserve="nothing" serialized="true" />
+    <type fullname="UIAnimatorCore.AnimationSetup" preserve="nothing" serialized="true" />
+    <type fullname="UIAnimatorCore.AnimationStage" preserve="nothing" serialized="true" />
+    <type fullname="UIAnimatorCore.UIAlphaObjectSetter" preserve="nothing" serialized="true" />
+    <type fullname="UIAnimatorCore.UIGraphicRendererTargetData" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityUIExtensions, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.Extensions.FlowLayoutGroup" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.LowLevel.GlyphValueRecord" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>
